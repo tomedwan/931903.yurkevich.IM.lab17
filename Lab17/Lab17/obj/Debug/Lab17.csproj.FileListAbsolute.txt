@@ -1,0 +1,30 @@
+C:\Users\Тая\source\repos\Lab17\Lab17\bin\Debug\Lab17.exe.config
+C:\Users\Тая\source\repos\Lab17\Lab17\bin\Debug\Lab17.exe
+C:\Users\Тая\source\repos\Lab17\Lab17\bin\Debug\Lab17.pdb
+C:\Users\Тая\source\repos\Lab17\Lab17\obj\Debug\Lab17.csprojAssemblyReference.cache
+C:\Users\Тая\source\repos\Lab17\Lab17\obj\Debug\Lab17.Form1.resources
+C:\Users\Тая\source\repos\Lab17\Lab17\obj\Debug\Lab17.Properties.Resources.resources
+C:\Users\Тая\source\repos\Lab17\Lab17\obj\Debug\Lab17.csproj.GenerateResource.cache
+C:\Users\Тая\source\repos\Lab17\Lab17\obj\Debug\Lab17.csproj.CoreCompileInputs.cache
+C:\Users\Тая\source\repos\Lab17\Lab17\obj\Debug\Lab17.exe
+C:\Users\Тая\source\repos\Lab17\Lab17\obj\Debug\Lab17.pdb
+E:\Учеба)0)(((000\6 семестр (текущий)\SimulationModelling\SimModLaba17\Тая\Lab17\Lab17\bin\Debug\Lab17.exe.config
+E:\Учеба)0)(((000\6 семестр (текущий)\SimulationModelling\SimModLaba17\Тая\Lab17\Lab17\bin\Debug\Lab17.exe
+E:\Учеба)0)(((000\6 семестр (текущий)\SimulationModelling\SimModLaba17\Тая\Lab17\Lab17\bin\Debug\Lab17.pdb
+E:\Учеба)0)(((000\6 семестр (текущий)\SimulationModelling\SimModLaba17\Тая\Lab17\Lab17\obj\Debug\Lab17.csprojAssemblyReference.cache
+E:\Учеба)0)(((000\6 семестр (текущий)\SimulationModelling\SimModLaba17\Тая\Lab17\Lab17\obj\Debug\Lab17.Form1.resources
+E:\Учеба)0)(((000\6 семестр (текущий)\SimulationModelling\SimModLaba17\Тая\Lab17\Lab17\obj\Debug\Lab17.Properties.Resources.resources
+E:\Учеба)0)(((000\6 семестр (текущий)\SimulationModelling\SimModLaba17\Тая\Lab17\Lab17\obj\Debug\Lab17.csproj.GenerateResource.cache
+E:\Учеба)0)(((000\6 семестр (текущий)\SimulationModelling\SimModLaba17\Тая\Lab17\Lab17\obj\Debug\Lab17.csproj.CoreCompileInputs.cache
+E:\Учеба)0)(((000\6 семестр (текущий)\SimulationModelling\SimModLaba17\Тая\Lab17\Lab17\obj\Debug\Lab17.exe
+E:\Учеба)0)(((000\6 семестр (текущий)\SimulationModelling\SimModLaba17\Тая\Lab17\Lab17\obj\Debug\Lab17.pdb
+C:\Users\64510\OneDrive\Desktop\Лаба по имитационке 1\lab taya\Lab17\Lab17\bin\Debug\Lab17.exe.config
+C:\Users\64510\OneDrive\Desktop\Лаба по имитационке 1\lab taya\Lab17\Lab17\bin\Debug\Lab17.exe
+C:\Users\64510\OneDrive\Desktop\Лаба по имитационке 1\lab taya\Lab17\Lab17\bin\Debug\Lab17.pdb
+C:\Users\64510\OneDrive\Desktop\Лаба по имитационке 1\lab taya\Lab17\Lab17\obj\Debug\Lab17.csprojAssemblyReference.cache
+C:\Users\64510\OneDrive\Desktop\Лаба по имитационке 1\lab taya\Lab17\Lab17\obj\Debug\Lab17.Form1.resources
+C:\Users\64510\OneDrive\Desktop\Лаба по имитационке 1\lab taya\Lab17\Lab17\obj\Debug\Lab17.Properties.Resources.resources
+C:\Users\64510\OneDrive\Desktop\Лаба по имитационке 1\lab taya\Lab17\Lab17\obj\Debug\Lab17.csproj.GenerateResource.cache
+C:\Users\64510\OneDrive\Desktop\Лаба по имитационке 1\lab taya\Lab17\Lab17\obj\Debug\Lab17.csproj.CoreCompileInputs.cache
+C:\Users\64510\OneDrive\Desktop\Лаба по имитационке 1\lab taya\Lab17\Lab17\obj\Debug\Lab17.exe
+C:\Users\64510\OneDrive\Desktop\Лаба по имитационке 1\lab taya\Lab17\Lab17\obj\Debug\Lab17.pdb
